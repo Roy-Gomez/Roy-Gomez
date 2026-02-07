@@ -2,6 +2,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roygomezprado/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roygomezprado"/></a>
+  <a href="https://www.facebook.com/RoyGop.12?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RoyGop.12"/></a>
+  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="roygomezprado"/></a>
+  <a href="https://open.spotify.com/user/1fkmu4x5heknhbgh11jcjd5ge?si=f061ea9d866e40fc" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/></a>
   <a href="mailto:roybrayamgp17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roybrayamgp17@gmail.com"/></a>
 </p>
 
@@ -10,45 +13,38 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 Estudiante de Ingeniería de Sistemas en la UNSCH - Quinto Superior
+🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> en la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) - <strong>Quinto Superior</strong>
 
-💻 Desarrollador Frontend con experiencia en Angular, Java y JavaScript
+💻 Desarrollador Frontend especializado en <strong>Angular, Java y JavaScript</strong>
 
-📊 Apasionado por el Análisis de Datos y Business Intelligence
+📊 Apasionado por el <strong>Análisis de Datos, Data Analytics y Business Intelligence</strong>
 
-🔍 Especializado en gestión de bases de datos y visualización de información con Power BI
+🔧 Stack tecnológico actual: <strong>Java, JavaScript, TypeScript, Angular, Oracle Database, JBoss, MongoDB, PostgreSQL</strong>
 
-🏆 Primer puesto en Hackathon de Inteligencia Artificial - Train your First AI Model with PyTorch
+📈 Experiencia en desarrollo de aplicaciones web, gestión de bases de datos y visualización de información con <strong>Power BI y SQL</strong>
 
-🎯 Becario PRONABEC (Beca Permanencia)
+🐍 Conocimientos en <strong>Python</strong> para análisis de datos (pandas, numpy) y Machine Learning
 
-👥 Asambleísta Universitario UNSCH (Set 2025 - Set 2026)
+☁️ Familiarizado con computación en la nube: <strong>AWS y BigQuery</strong>
 
-📫 Contacto: **roybrayamgp17@gmail.com**
+🎯 <strong>Becario PRONABEC</strong> (Beca Permanencia) - Reconocimiento por excelencia académica
+
+🏆 <strong>Primer puesto en Hackathon de Inteligencia Artificial</strong> - "Train your First AI Model with PyTorch"
+
+👥 <strong>Asambleísta Universitario</strong> UNSCH (Septiembre 2025 - Septiembre 2026)
+
+🌟 Voluntario de Tecnología en <strong>Juegos Bolivarianos del Bicentenario Ayacucho 2024</strong> - Proyecto Legado
+
+🎓 Formación complementaria en inglés básico con comprensión de lectura de documentación técnica
+
+🔍 Áreas de interés: <strong>Data Science, Machine Learning, Business Intelligence, Desarrollo Full Stack y Cloud Computing</strong>
+
+💡 En búsqueda de oportunidades de prácticas preprofesionales en <strong>Data Analytics y Business Intelligence</strong>
+
+📍 Ubicación: Ayacucho, Perú
+
+📫 Contacto: <strong>roybrayamgp17@gmail.com</strong>
 </p>
-
-<br>
-
-<h2>Experiencia Profesional 💼</h2>
-
-### Practicante Universitario - H&E Consultores
-**Feb 2026 - Actualidad** | Remoto
-- Desarrollo con Java y JavaScript
-- Stack completo: Oracle Database, JBoss, MongoDB
-- Trabajo en equipo y control de versiones con Git
-
-### Desarrollador Frontend - INTECH
-**Feb 2025 - Actualidad** | Ayacucho, Perú
-- Control de calidad (QA) y pruebas funcionales
-- Desarrollo con Angular, PostgreSQL y TypeScript
-- Automatización de procesos y reducción de errores manuales
-- Gestión de versiones con Git
-
-### Desarrollador Frontend - Colegio de Obstetras del Perú
-**Oct 2025 - Actualidad** | Ayacucho
-- Desarrollo de plataforma web institucional
-- Optimización de consultas SQL
-- Interfaces web con Angular para gestión de datos
 
 <br>
 
@@ -56,16 +52,23 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,angular,python,html,css,postgresql,mysql,mongodb,oracle,git,github,nodejs,powershell,aws,vscode,postman,docker,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,angular,python,html,css,postgresql,mysql,mongodb,git,github,nodejs,powershell,aws,vscode,postman,docker,linux,dotnet,ps&perline=11" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
 </p>
 
 ### Stack Principal
 - **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3
-- **Backend:** Java, JavaScript, JBoss
-- **Bases de Datos:** Oracle Database, PostgreSQL, MongoDB, SQL Server
-- **Analytics:** Power BI, DAX, Python (pandas, numpy)
+- **Backend:** Java, JavaScript, .NET, JBoss
+- **Bases de Datos:** Oracle Database, SQL Server, PostgreSQL, MongoDB, MySQL
+- **Analytics & BI:** Power BI, DAX, Python (pandas, numpy), SQL Server Management Studio
 - **Cloud & Tools:** AWS, BigQuery, Git, Docker
+- **Diseño:** Photoshop
 - **Control de Versiones:** Git, GitHub
 
 <br>
