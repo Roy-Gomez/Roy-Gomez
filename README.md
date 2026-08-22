@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋 soy Roy Brayam / roygomezprado ✨</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/roygomezprado/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roygomezprado"/></a>
-  <a href="https://www.facebook.com/RoyGop.12?locale=es_LA" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RoyGop.12"/></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="roygomezprado"/></a>
-  <a href="https://open.spotify.com/user/1fkmu4x5heknhbgh11jcjd5ge?si=f061ea9d866e40fc" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/></a>
-  <a href="mailto:roybrayamgp17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roybrayamgp17@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/roygomezprado/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roygomezprado"/></a>
+  <a href="https://www.facebook.com/RoyGop.12?locale=es_LA" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RoyGop.12"/></a>
+  <a href="https://www.instagram.com/roygp_17/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="roygp_17"/></a>
+  <a href="https://open.spotify.com/user/1fkmu4x5heknhbgh11jcjd5ge?si=f061ea9d866e40fc" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/></a>
+  <a href="mailto:roybrayamgp17@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roybrayamgp17@gmail.com"/></a>
 </p>
 
 <br>
@@ -48,6 +48,13 @@
 
 <br>
 
+<h2>Educación 🎓</h2>
+
+- 🏫 **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)** — Ingeniería de Sistemas
+- 🏫 **Universidad Nacional de Ingeniería (UNI)** — Ingeniería de Sistemas *(Movilidad Académica, mar. 2026 – jul. 2026)*
+
+<br>
+
 <h2>Tecnologías y Herramientas 👨🏻‍💻</h2>
 
 <p align="left">
@@ -70,13 +77,6 @@
 - **Cloud & Tools:** AWS, BigQuery, Git, Docker
 - **Diseño:** Photoshop
 - **Control de Versiones:** Git, GitHub
-
-<br>
-
-<h2>Educación 🎓</h2>
-
-- 🏫 **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)** — Ingeniería de Sistemas
-- 🏫 **Universidad Nacional de Ingeniería (UNI)** — Ingeniería de Sistemas *(Movilidad Académica, mar. 2026 – jul. 2026)*
 
 <br>
 
@@ -103,6 +103,10 @@
 <br>
 
 <h2>GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roygomezprado&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=roygomezprado&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
