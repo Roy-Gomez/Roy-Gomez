@@ -73,6 +73,13 @@
 
 <br>
 
+<h2>Educación 🎓</h2>
+
+- 🏫 **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)** — Ingeniería de Sistemas
+- 🏫 **Universidad Nacional de Ingeniería (UNI)** — Ingeniería de Sistemas *(Movilidad Académica, mar. 2026 – jul. 2026)*
+
+<br>
+
 <h2>Certificaciones 📜</h2>
 
 - ✅ Análisis de Datos con Power BI - Fundación Romero
@@ -98,11 +105,11 @@
 <h2>GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roygomezprado&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=roygomezprado&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roygomezprado&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roygomezprado&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 <div align="center">
